@@ -15,7 +15,7 @@
 - 👨‍💻 As a SCE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, C#.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://github.com/safiaaskar/PortfolioBootstrap.git to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://safiaaskar.github.io/safia-askar/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
