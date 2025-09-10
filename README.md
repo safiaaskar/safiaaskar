@@ -33,12 +33,14 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-05122A?style=flat&logo=oop)&nbsp;
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-05122A?style=flat&logo=asp.net&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=white)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dot-net&logoColor=white)&nbsp;
+![MSSQL Server](https://img.shields.io/badge/-MSSQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=7C7CFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiaaskar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
