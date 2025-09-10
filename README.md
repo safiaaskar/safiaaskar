@@ -29,16 +29,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-05122A?style=flat)&nbsp;
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-05122A?style=flat&logo=dotnet)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dotnet)&nbsp;
 ![MSSQL Server](https://img.shields.io/badge/-MSSQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=7C7CFF)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=dotnet)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dotnet)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-05122A?style=flat&logo=dotnet)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
